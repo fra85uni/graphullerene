@@ -10,7 +10,7 @@ C60.xyz and graph.xyz starting config. of MD simulation
 
 1-5.xyz and g1-g5.xyz structural configurations extrapolated from MD of vdW C60 and qHP C60
 
-C60-hole-fixed-environment.inp geometry optimization input for hole in vdw C60 with fixed enviroment (coordinate file is hole.xyz) 
+C60-hole-fixed-environment.inp geometry optimization input for hole/electron in vdw C60 with fixed enviroment (coordinate file is C60-room.xyz) 
 comment  the part
 &CONSTRAINT
  &FIXED_ATOMS
